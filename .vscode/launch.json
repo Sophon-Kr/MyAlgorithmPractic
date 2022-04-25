@@ -1,0 +1,154 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch MergeLinklist",
+      "request": "launch",
+      "mainClass": "MergeLinklist",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch LongestCommonPrefix",
+      "request": "launch",
+      "mainClass": "LongestCommonPrefix",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ValidParenthedes",
+      "request": "launch",
+      "mainClass": "ValidParenthedes",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch RomanToInt",
+      "request": "launch",
+      "mainClass": "RomanToInt",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch TwoSumNumber",
+      "request": "launch",
+      "mainClass": "TwoSumNumber",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Leettest",
+      "request": "launch",
+      "mainClass": "Leettest",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch CircularLinklist",
+      "request": "launch",
+      "mainClass": "CircularLinklist",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteLinkListByPosition",
+      "request": "launch",
+      "mainClass": "DeleteLinkListByPosition",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch DeleteLinkList",
+      "request": "launch",
+      "mainClass": "DeleteLinkList",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkList2",
+      "request": "launch",
+      "mainClass": "LinkList2",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch LinkList",
+      "request": "launch",
+      "mainClass": "LinkList",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReversArray",
+      "request": "launch",
+      "mainClass": "ReversArray",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch BlockSwapRotate",
+      "request": "launch",
+      "mainClass": "BlockSwapRotate",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ReversRotate",
+      "request": "launch",
+      "mainClass": "ReversRotate",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch JugglingRotateArray",
+      "request": "launch",
+      "mainClass": "JugglingRotateArray",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch RotateTempArray",
+      "request": "launch",
+      "mainClass": "RotateTempArray",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch RotateArray",
+      "request": "launch",
+      "mainClass": "RotateArray",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch ArrayPractice",
+      "request": "launch",
+      "mainClass": "ArrayPractice",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch IOFunctionTest",
+      "request": "launch",
+      "mainClass": "IOFunctionTest",
+      "projectName": "JavaPractice_3d12d50d"
+    },
+    {
+      "type": "java",
+      "name": "Launch Test",
+      "request": "launch",
+      "mainClass": "Test",
+      "projectName": "JavaPractice_3d12d50d"
+    }
+  ]
+}
